@@ -1,4 +1,4 @@
-# run-clang
+# run-clang-tidy
 This is my modified version of the run-clang-tidy.py script. It:
 * Automatically removes duplicate entries in the the `-export-fixes` file
 * Supports a new `-pretty-print` option that, when used in conjunction with `-export-fixes`, writes the fixes out to a Markdown file
